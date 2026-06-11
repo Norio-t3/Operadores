@@ -1,9 +1,9 @@
 # Operadores
 
-+ Adição
+Adição +
 
-- Subtração
+Subtração -
 
-* Multilicação
+Multilicação *
 
-/ Divisão
+Divisão /
